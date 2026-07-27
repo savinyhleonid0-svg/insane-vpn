@@ -21,12 +21,12 @@
 
 | Флаг | Страна | Код |
 |---|---|---|
-| 🇬🇧 | United Kingdom | `UK` |
-| 🇳🇱 | Netherlands | `NL` |
-| 🇩🇪 | Germany | `DE` |
-| 🇨🇭 | Switzerland | `CH` |
-| 🇸🇪 | Sweden | `SE` |
-| 🇫🇮 | Finland | `FI` |
+| <img src="https://flagcdn.com/24x18/gb.png" width="24" alt="GB"> | United Kingdom | `UK` |
+| <img src="https://flagcdn.com/24x18/nl.png" width="24" alt="NL"> | Netherlands | `NL` |
+| <img src="https://flagcdn.com/24x18/de.png" width="24" alt="DE"> | Germany | `DE` |
+| <img src="https://flagcdn.com/24x18/ch.png" width="24" alt="CH"> | Switzerland | `CH` |
+| <img src="https://flagcdn.com/24x18/se.png" width="24" alt="SE"> | Sweden | `SE` |
+| <img src="https://flagcdn.com/24x18/fi.png" width="24" alt="FI"> | Finland | `FI` |
 
 ## Содержание
 
